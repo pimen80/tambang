@@ -1,0 +1,2 @@
+# tambang
+hanya untuk menambang
